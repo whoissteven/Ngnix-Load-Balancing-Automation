@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 
-# ================================================================================================== #
-#     THIS PYTHON SCRIPT WAS BUILT TO REPLACE THE PHP-BASED FRONTEND FOR THE NGINX LOAD BALANCER     #
-#                                     DO NOT SHARE WITHOUT PERMISSION                                #
-#                                         CREATED BY STEVEN SMITH                                    #
-# ================================================================================================== #
-
 import shutil
 import os
 import socket
